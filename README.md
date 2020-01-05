@@ -1,6 +1,6 @@
 # WizcorpCodingTest
 
-This is my submission for the coding test you sent me.
+Hi, I'm Quentin Da Cruz. This is my submission for the coding test you sent me for the job as a Server Developer at your company.
 
 *The game generates 3 secret numbers between 1 and 10.
 The goal of the player is to enter a number that is a multiple of the 3 secret numbers generated.
